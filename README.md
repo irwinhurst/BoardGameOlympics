@@ -35,6 +35,25 @@ Pivot games into table columns [Category-Game-Players]
 ###### Display Player
 Display all games for a player order by category [Category-Game-Players] [Categories] [Games]
 
+###### Misc
+Printing
+
+Choose Random Active Participant
+
+Live game selection during start round
+
+Calculating Game Times
+
+###### Player Features
+Signout/Re-signin
+
+See Stats
+
+Choose First Player
+
+
+
+
 
 
 
