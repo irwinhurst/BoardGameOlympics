@@ -15,7 +15,9 @@ Lookup an existing participant and register them at the door [Event-Participants
 
 ###### Start Round
 Assign round number to one of the categories [Categories]
+
 List current active participants
+
 Assign each participant to a Category-Game until it is full [Category-Game-Players]
 
 ###### Save Game Results
