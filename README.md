@@ -22,11 +22,14 @@ Assign each participant to a Category-Game until it is full [Category-Game-Playe
 
 ###### Save Game Results
 Lookup Game [Category-Games] 
+
 Display Details including players [Category-Game-Players]
+
 Add score for each player [Category-Game-Players].Score,  [Category-Game-Players].Points
 
 ###### List Results
 Group by player [Category-Game-Players] and sum the Points.
+
 Pivot games into table columns [Category-Game-Players]
 
 ###### Display Player
