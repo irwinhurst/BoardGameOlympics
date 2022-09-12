@@ -14,7 +14,7 @@ Add a participant [Participants] and link to the current event ][Event-Particip
 Lookup an existing participant and register them at the door [Event-Participants].Active
 
 ###### Start Round
-Assign round number to one of the categories [Categories]
+Choose Category, assign round number [Categories]
 
 List current active participants
 
@@ -38,6 +38,8 @@ Display all games for a player order by category [Category-Game-Players] [Catego
 ###### Misc
 Printing
 
+Searching and importing game from BGG
+
 Choose Random Active Participant
 
 Live game selection during start round
@@ -50,6 +52,8 @@ Signout/Re-signin
 See Stats
 
 Choose First Player
+
+Game Details and link to BGG
 
 
 
